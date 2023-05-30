@@ -1,0 +1,7 @@
+#Ignore the vitrual envirmoment 
+venv/
+
+
+#Ignore the __pycache__
+__pycache__/
+
